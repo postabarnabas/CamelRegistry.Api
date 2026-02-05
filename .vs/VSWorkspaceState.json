@@ -5,6 +5,6 @@
     "\\CamelRegistry.Api\\Data",
     "\\CamelRegistry.Api\\Models"
   ],
-  "SelectedNode": "\\CamelRegistry.Api\\Data\\CamelDbContext.cs",
+  "SelectedNode": "\\CamelRegistry.Api\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
