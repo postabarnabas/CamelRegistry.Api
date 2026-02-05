@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\CamelRegistry.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\models\\camel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\models\\camel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CamelRegistry.Api\\CamelRegistry.Api\\Data\\CamelDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CamelRegistry.Api\\Data\\CamelDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\camelregistry.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\camelregistry.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CamelRegistry.Api\\CamelRegistry.Api\\Models\\Camel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CamelRegistry.Api\\Models\\Camel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CamelRegistry.Api\\CamelRegistry.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CamelRegistry.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CamelRegistry.Api\\CamelRegistry.Api\\CamelRegistry.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CamelRegistry.Api\\CamelRegistry.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CamelDbContext.cs",
+              "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Data\\CamelDbContext.cs",
+              "RelativeDocumentMoniker": "CamelRegistry.Api\\Data\\CamelDbContext.cs",
+              "ToolTip": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Data\\CamelDbContext.cs",
+              "RelativeToolTip": "CamelRegistry.Api\\Data\\CamelDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T19:12:24.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Camel.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Models\\Camel.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\Models\\Camel.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "CamelRegistry.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T18:40:24.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T18:40:24.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CamelRegistry.Api.csproj",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\CamelRegistry.Api.csproj",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\CamelRegistry.Api.csproj",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "CamelRegistry.Api\\CamelRegistry.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-05T18:40:08.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T18:40:08.72Z"
             }
           ]
         }

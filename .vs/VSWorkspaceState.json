@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CamelRegistry.Api"
+    "\\CamelRegistry.Api",
+    "\\CamelRegistry.Api\\Data",
+    "\\CamelRegistry.Api\\Models"
   ],
-  "SelectedNode": "\\CamelRegistry.Api.sln",
+  "SelectedNode": "\\CamelRegistry.Api\\Data\\CamelDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
