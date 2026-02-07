@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CamelRegistry.Api\\CamelRegistry.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
