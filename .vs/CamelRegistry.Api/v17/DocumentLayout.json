@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\CamelRegistry.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|d:\\camelregistry.api\\camelregistry.api.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|solutionrelative:camelregistry.api.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|d:\\camelregistry.api\\camelregistry.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|solutionrelative:camelregistry.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "CamelRegistry.Api.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "CamelRegistry.Api.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:15:34.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CamelRegistry.Api.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CamelRegistry.Api.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:08:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CamelDbContext.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Data\\CamelDbContext.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\Data\\CamelDbContext.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Camel.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Models\\Camel.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\Models\\Camel.cs",
@@ -56,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Program.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\Program.cs",
@@ -69,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CamelRegistry.Api.csproj",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\CamelRegistry.Api.csproj",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\CamelRegistry.Api.csproj",

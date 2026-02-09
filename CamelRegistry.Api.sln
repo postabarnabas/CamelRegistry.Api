@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelRegistry.Api", "CamelRegistry.Api\CamelRegistry.Api.csproj", "{497F41E2-DFA5-4657-8446-DEDF997E9EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelRegistry.Api.Tests", "CamelRegistry.Api.Tests\CamelRegistry.Api.Tests.csproj", "{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{497F41E2-DFA5-4657-8446-DEDF997E9EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{497F41E2-DFA5-4657-8446-DEDF997E9EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{497F41E2-DFA5-4657-8446-DEDF997E9EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
