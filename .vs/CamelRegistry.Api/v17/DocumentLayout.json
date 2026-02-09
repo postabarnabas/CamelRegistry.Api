@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CamelRegistry.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|d:\\camelregistry.api\\camelregistry.api.tests\\camelapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|solutionrelative:camelregistry.api.tests\\camelapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|d:\\camelregistry.api\\camelregistry.api.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|solutionrelative:camelregistry.api.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{4CD7D607-B27A-4774-AE55-71B9C14A4BC9}|CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj|solutionrelative:camelregistry.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\data\\cameldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\data\\cameldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\models\\camel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\models\\camel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|solutionrelative:camelregistry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{497F41E2-DFA5-4657-8446-DEDF997E9EAE}|CamelRegistry.Api\\CamelRegistry.Api.csproj|d:\\camelregistry.api\\camelregistry.api\\camelregistry.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CamelApiTests.cs",
+              "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\CamelApiTests.cs",
+              "RelativeDocumentMoniker": "CamelRegistry.Api.Tests\\CamelApiTests.cs",
+              "ToolTip": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\CamelApiTests.cs",
+              "RelativeToolTip": "CamelRegistry.Api.Tests\\CamelApiTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:17:40.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api.Tests\\CustomWebApplicationFactory.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api.Tests\\UnitTest1.cs",
@@ -59,8 +76,7 @@
               "RelativeToolTip": "CamelRegistry.Api.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:08:59.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T21:08:59.209Z"
             },
             {
               "$type": "Document",
@@ -72,8 +88,7 @@
               "RelativeToolTip": "CamelRegistry.Api\\Data\\CamelDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T19:12:24.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T19:12:24.693Z"
             },
             {
               "$type": "Document",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "CamelRegistry.Api\\Models\\Camel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T19:08:58.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T19:08:58.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\Program.cs",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\Program.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "CamelRegistry.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T18:40:24.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T18:40:24.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CamelRegistry.Api.csproj",
               "DocumentMoniker": "D:\\CamelRegistry.Api\\CamelRegistry.Api\\CamelRegistry.Api.csproj",
               "RelativeDocumentMoniker": "CamelRegistry.Api\\CamelRegistry.Api.csproj",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "CamelRegistry.Api\\CamelRegistry.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-05T18:40:08.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T18:40:08.72Z"
             }
           ]
         }

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CamelRegistry.Api"
+    "\\CamelRegistry.Api",
+    "\\CamelRegistry.Api.Tests"
   ],
   "SelectedNode": "\\CamelRegistry.Api.sln",
   "PreviewInSolutionExplorer": false

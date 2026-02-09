@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CamelRegistry.Api.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d115d989e37d4a3b8bfdd461a512df87695a34e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+913eaec49f72ff75e4bb41ca7f68993846cbffc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CamelRegistry.Api.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CamelRegistry.Api.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
