@@ -1,14 +1,15 @@
 using CamelRegistry.Api.Data;
 using Microsoft.EntityFrameworkCore;
 using CamelRegistry.Api.Models;
-using CamelRegistry.Api.Data;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<CamelDbContext>(options =>
-    options.UseSqlite("Data Source=camels.db"));
+if (!builder.Environment.IsEnvironment("Testing"))
+{
+    builder.Services.AddDbContext<CamelDbContext>(options =>
+        options.UseSqlite("Data Source=camels.db"));
+}
 
 var app = builder.Build();
 
@@ -77,3 +78,4 @@ app.MapDelete("/camels/{id:int}", async (int id, CamelDbContext db) =>
     return Results.NoContent();
 });
 app.Run();
+public partial class Program { }

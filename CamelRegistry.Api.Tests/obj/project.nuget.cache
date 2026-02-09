@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4HiVsWX+veA=",
+  "dgSpecHash": "07JTdDhK/6E=",
   "success": true,
   "projectFilePath": "D:\\CamelRegistry.Api\\CamelRegistry.Api.Tests\\CamelRegistry.Api.Tests.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.12\\microsoft.entityframeworkcore.9.0.12.nupkg.sha512",
     "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.12\\microsoft.entityframeworkcore.abstractions.9.0.12.nupkg.sha512",
     "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.12\\microsoft.entityframeworkcore.analyzers.9.0.12.nupkg.sha512",
+    "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.12\\microsoft.entityframeworkcore.inmemory.9.0.12.nupkg.sha512",
     "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.12\\microsoft.entityframeworkcore.relational.9.0.12.nupkg.sha512",
     "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.12\\microsoft.entityframeworkcore.sqlite.9.0.12.nupkg.sha512",
     "C:\\Users\\Barni\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.12\\microsoft.entityframeworkcore.sqlite.core.9.0.12.nupkg.sha512",

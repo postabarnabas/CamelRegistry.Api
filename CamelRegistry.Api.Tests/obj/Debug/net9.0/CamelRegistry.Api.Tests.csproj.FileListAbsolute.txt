@@ -448,3 +448,4 @@ D:\CamelRegistry.Api\CamelRegistry.Api.Tests\obj\Debug\net9.0\refint\CamelRegist
 D:\CamelRegistry.Api\CamelRegistry.Api.Tests\obj\Debug\net9.0\CamelRegistry.Api.Tests.pdb
 D:\CamelRegistry.Api\CamelRegistry.Api.Tests\obj\Debug\net9.0\CamelRegistry.Api.Tests.genruntimeconfig.cache
 D:\CamelRegistry.Api\CamelRegistry.Api.Tests\obj\Debug\net9.0\ref\CamelRegistry.Api.Tests.dll
+D:\CamelRegistry.Api\CamelRegistry.Api.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll

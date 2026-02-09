@@ -39,6 +39,7 @@
         "dependencies": {
           "CamelRegistry.Api": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Testing": "9.0.12",
+          "Microsoft.EntityFrameworkCore.InMemory": "9.0.12",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.12",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "coverlet.collector": "6.0.2",
@@ -405,6 +406,22 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.12": {},
+      "Microsoft.EntityFrameworkCore.InMemory/9.0.12": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.12",
+          "Microsoft.Extensions.Caching.Memory": "9.0.12",
+          "Microsoft.Extensions.Logging": "9.0.12"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "9.0.12.0",
+            "fileVersion": "9.0.1225.60812"
+          }
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/9.0.12": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.12",
@@ -3229,6 +3246,13 @@
       "sha512": "sha512-ut8XSV7+gZ7FunbZH4t6Hta2NXP12F23cTuvC1Pp4caCWs4yg8Ddc2QPGPPWVmxIMl8q44fB5IK8Q8IEwlXIvQ==",
       "path": "microsoft.entityframeworkcore.analyzers/9.0.12",
       "hashPath": "microsoft.entityframeworkcore.analyzers.9.0.12.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/9.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9uWGL3NmP/xPqxclG2IRT4AG2NYDcncFRyNbj/jGtyoRYDphZpQ0KjJ6N/T6+zj0ifuT4mZykUiHftGdplipKw==",
+      "path": "microsoft.entityframeworkcore.inmemory/9.0.12",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.9.0.12.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/9.0.12": {
       "type": "package",

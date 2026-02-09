@@ -32,4 +32,28 @@ public class CamelApiTests : IClassFixture<CustomWebApplicationFactory>
         Assert.NotNull(createdCamel);
         Assert.True(createdCamel!.Id > 0);
     }
+    [Fact]
+    public async Task Get_Camels_Returns_Ok()
+    {
+        var response = await _client.GetAsync("/camels");
+
+        Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+
+        var camels = await response.Content.ReadFromJsonAsync<List<Camel>>();
+        Assert.NotNull(camels);
+    }
+    [Fact]
+    public async Task Post_Camel_With_Invalid_HumpCount_Returns_BadRequest()
+    {
+        var camel = new Camel
+        {
+            Name = "HibásTeve",
+            Color = "Szürke",
+            HumpCount = 3 
+        };
+
+        var response = await _client.PostAsJsonAsync("/camels", camel);
+
+        Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
+    }
 }
